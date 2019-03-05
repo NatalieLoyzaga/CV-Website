@@ -13,6 +13,9 @@
     right: 0;
     top: 0;
   }
+  .topnav a{
+      margin-left: 0;
+  }
   .topnav.responsive a {
     float: none;
     display: block;
@@ -128,6 +131,9 @@
   }
   .topnav.responsive {
     position: relative;
+  }
+  .topnav a{
+      margin-left: 0;
   }
   .topnav.responsive .icon {
     position: absolute;
