@@ -165,7 +165,7 @@
 
   .banner-overlay{
     position: absolute;
-    top: 15%;
+    top: 20%;
     width:100%;
   }
   #who-am-banner{
@@ -366,10 +366,8 @@ Low Resolution Tablets, Mobiles (Landscape)
   #footer p{
     font-size: 12px;
   }
-
 }
 
-}
 /*Tablets, Ipads (landscape)
 */
 
